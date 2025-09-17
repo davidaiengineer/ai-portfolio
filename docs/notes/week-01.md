@@ -4,7 +4,7 @@
 - [x] Set up project structure
 - [x] Create initial documentation
 - [x] Set up development environment
-- [ ] Complete Kaggle Intro to ML certificate
+- [x] Complete Kaggle Intro to ML certificate
 - [ ] Start Google Cloud GenAI Fundamentals badge
 - [ ] Begin P1 RAG project planning
 
@@ -31,7 +31,7 @@
 ## Learning Progress
 
 ### Certifications in Progress
-- **Kaggle Intro to ML**: Not started yet
+- **Kaggle Intro to ML**: ✅ Completed (2025-01-17)
 - **Google Cloud GenAI Fundamentals**: Not started yet
 
 ### Skills Developed

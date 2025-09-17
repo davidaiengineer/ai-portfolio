@@ -128,7 +128,7 @@ run-api: ; uvicorn projects.p3-mlops.src.app:app --reload --port 8000
 | [ ]   | Databricks      | Generative AI Fundamentals (Accreditation) | {URL} | docs/evidence/dbx-genai.png                | {date} |
 | [ ]   | IBM SkillsBuild | AI Fundamentals (Badge)                    | {URL} | docs/evidence/ibm-ai-fundamentals.png      | {date} |
 | [ ]   | Hugging Face    | Course Certificate (track)                 | {URL} | docs/evidence/hf-learn.png                 | {date} |
-| [ ]   | Kaggle          | Intro to ML / Pandas                       | {URL} | docs/evidence/kaggle-intro-ml.png          | {date} |
+| [x]   | Kaggle          | Intro to Machine Learning (Certificate)    | https://www.kaggle.com/learn/intro-to-machine-learning | docs/evidence/DavidAIEngineer - Intro to Machine Learning.png | 2025-01-17 |
 
 ---
 
@@ -234,6 +234,7 @@ HUGGINGFACEHUB_API_TOKEN=
 **Changelog**
 
 * 2025-01-27 — Project structure created and initialized.
+* 2025-01-17 — ✅ Completed Kaggle Intro to Machine Learning certificate.
 
 ---
 
