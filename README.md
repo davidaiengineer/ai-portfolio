@@ -121,17 +121,17 @@ run-api: ; uvicorn projects.p3-mlops.src.app:app --reload --port 8000
 
 | Status | Program         | Credential                                 | Link  | Evidence                                   | Date   |
 | ------ | --------------- | ------------------------------------------ | ----- | ------------------------------------------ | ------ |
-| [ ]   | Google Cloud    | Generative AI Fundamentals (Skill Badge)   | {URL} | docs/evidence/gcp-genai-fundamentals.png   | {date} |
-| [ ]   | Google Cloud    | Prompt Design in Vertex AI (Badge)         | {URL} | docs/evidence/gcp-prompt-design.png        | {date} |
-| [ ]   | Microsoft       | Applied Skills: Azure OpenAI Agents        | {URL} | docs/evidence/ms-applied-skills-agents.png | {date} |
-| [ ]   | Microsoft       | Applied Skills: Azure AI Vision            | {URL} | docs/evidence/ms-applied-skills-vision.png | {date} |
-| [ ]   | Databricks      | Generative AI Fundamentals (Accreditation) | {URL} | docs/evidence/dbx-genai.png                | {date} |
-| [ ]   | IBM SkillsBuild | AI Fundamentals (Badge)                    | {URL} | docs/evidence/ibm-ai-fundamentals.png      | {date} |
-| [ ]   | Hugging Face    | Course Certificate (track)                 | {URL} | docs/evidence/hf-learn.png                 | {date} |
+| [ ]   | Google Cloud    | Generative AI Fundamentals (Skill Badge)   | https://www.cloudskillsboost.google/paths/118 | docs/evidence/gcp-genai-fundamentals.png   | {date} |
+| [ ]   | Google Cloud    | Prompt Design in Vertex AI (Badge)         | https://www.cloudskillsboost.google/course_templates/976 | docs/evidence/gcp-prompt-design.png        | {date} |
+| [ ]   | Microsoft       | Applied Skills: Azure OpenAI Agents        | https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-openai/ | docs/evidence/ms-applied-skills-agents.png | {date} |
+| [ ]   | Microsoft       | Applied Skills: Azure AI Vision            | https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solutions-azure-ai/ | docs/evidence/ms-applied-skills-vision.png | {date} |
+| [ ]   | Databricks      | Generative AI Fundamentals (Accreditation) | https://www.databricks.com/learn/training/generative-ai-fundamentals | docs/evidence/dbx-genai.png                | {date} |
+| [ ]   | IBM SkillsBuild | AI Fundamentals (Badge)                    | https://skillsbuild.org/adult-learners/course-catalog/artificial-intelligence | docs/evidence/ibm-ai-fundamentals.png      | {date} |
+| [ ]   | Hugging Face    | Course Certificate (track)                 | https://huggingface.co/learn | docs/evidence/hf-learn.png                 | {date} |
 | [x]   | Kaggle          | Intro to Machine Learning (Certificate)    | https://www.kaggle.com/learn/intro-to-machine-learning | docs/evidence/DavidAIEngineer - Intro to Machine Learning.png | 2025-01-17 |
-| [x]   | Google Cloud    | Introduction to Generative AI (Completion) | {share URL} | docs/evidence/Introduction to Generative AI.png | 2025-01-18 |
-| [x]   | Google Cloud    | Introduction to Large Language Models (Completion) | {share URL} | docs/evidence/Introduction to Large Language Models.png | 2025-01-18 |
-| [x]   | Google Cloud    | Introduction to Responsible AI (Completion) | {share URL} | docs/evidence/Introduction to Responsible AI.png | 2025-01-18 |
+| [x]   | Google Cloud    | Introduction to Generative AI (Completion) | https://www.cloudskillsboost.google/course_templates/536 | docs/evidence/Introduction to Generative AI.png | 2025-01-18 |
+| [x]   | Google Cloud    | Introduction to Large Language Models (Completion) | https://www.cloudskillsboost.google/course_templates/539 | docs/evidence/Introduction to Large Language Models.png | 2025-01-18 |
+| [x]   | Google Cloud    | Introduction to Responsible AI (Completion) | https://www.cloudskillsboost.google/course_templates/554 | docs/evidence/Introduction to Responsible AI.png | 2025-01-18 |
 
 ---
 
