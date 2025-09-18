@@ -5,7 +5,7 @@
 - [x] Create initial documentation
 - [x] Set up development environment
 - [x] Complete Kaggle Intro to ML certificate
-- [ ] Start Google Cloud GenAI Fundamentals badge
+- [x] Start Google Cloud GenAI Fundamentals badge
 - [ ] Begin P1 RAG project planning
 
 ## Completed Tasks
@@ -30,15 +30,24 @@
 
 ## Learning Progress
 
-### Certifications in Progress
+### Certifications Completed
 - **Kaggle Intro to ML**: ✅ Completed (2025-01-17)
-- **Google Cloud GenAI Fundamentals**: Not started yet
+- **Google Cloud Intro to Generative AI**: ✅ Completed (2025-01-18)
+- **Google Cloud Intro to Large Language Models**: ✅ Completed (2025-01-18)
+- **Google Cloud Intro to Responsible AI**: ✅ Completed (2025-01-18)
+
+### Certifications in Progress
+- **Google Cloud GenAI Fundamentals Badge**: In progress (3/5 courses completed)
 
 ### Skills Developed
 - Project organization and structure
 - Documentation best practices
 - Development environment setup
 - Docker containerization basics
+- **AI/ML Fundamentals**: Machine learning concepts, model training, evaluation
+- **Generative AI**: Understanding of generative AI principles and applications
+- **Large Language Models**: LLM architecture, capabilities, and use cases
+- **Responsible AI**: AI ethics, bias mitigation, and responsible development practices
 
 ## Blockers and Challenges
 - None currently

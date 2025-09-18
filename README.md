@@ -129,6 +129,9 @@ run-api: ; uvicorn projects.p3-mlops.src.app:app --reload --port 8000
 | [ ]   | IBM SkillsBuild | AI Fundamentals (Badge)                    | {URL} | docs/evidence/ibm-ai-fundamentals.png      | {date} |
 | [ ]   | Hugging Face    | Course Certificate (track)                 | {URL} | docs/evidence/hf-learn.png                 | {date} |
 | [x]   | Kaggle          | Intro to Machine Learning (Certificate)    | https://www.kaggle.com/learn/intro-to-machine-learning | docs/evidence/DavidAIEngineer - Intro to Machine Learning.png | 2025-01-17 |
+| [x]   | Google Cloud    | Introduction to Generative AI (Completion) | {share URL} | docs/evidence/Introduction to Generative AI.png | 2025-01-18 |
+| [x]   | Google Cloud    | Introduction to Large Language Models (Completion) | {share URL} | docs/evidence/Introduction to Large Language Models.png | 2025-01-18 |
+| [x]   | Google Cloud    | Introduction to Responsible AI (Completion) | {share URL} | docs/evidence/Introduction to Responsible AI.png | 2025-01-18 |
 
 ---
 
@@ -235,6 +238,7 @@ HUGGINGFACEHUB_API_TOKEN=
 
 * 2025-01-27 — Project structure created and initialized.
 * 2025-01-17 — ✅ Completed Kaggle Intro to Machine Learning certificate.
+* 2025-01-18 — ✅ Completed 3 Google Cloud AI courses: Intro to Generative AI, LLMs, and Responsible AI.
 
 ---
 
