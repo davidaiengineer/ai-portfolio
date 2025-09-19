@@ -122,7 +122,7 @@ run-api: ; uvicorn projects.p3-mlops.src.app:app --reload --port 8000
 | Status | Program         | Credential                                 | Link  | Evidence                                   | Date   |
 | ------ | --------------- | ------------------------------------------ | ----- | ------------------------------------------ | ------ |
 | [x]   | Google Cloud    | Generative AI Fundamentals (Skill Badge)   | https://www.cloudskillsboost.google/paths/118 | docs/evidence/gcp-genai-fundamentals.png   | 2025-01-18 |
-| [ ]   | Google Cloud    | Prompt Design in Vertex AI (Badge)         | https://www.cloudskillsboost.google/course_templates/976 | docs/evidence/gcp-prompt-design.png        | {date} |
+| [x]   | Google Cloud    | Prompt Design in Vertex AI (Badge)         | https://www.cloudskillsboost.google/course_templates/976 | docs/evidence/Prompt Design in Vertex AI.png | 2025-01-19 |
 | [ ]   | Microsoft       | Applied Skills: Azure OpenAI Agents        | https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-openai/ | docs/evidence/ms-applied-skills-agents.png | {date} |
 | [ ]   | Microsoft       | Applied Skills: Azure AI Vision            | https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solutions-azure-ai/ | docs/evidence/ms-applied-skills-vision.png | {date} |
 | [ ]   | Databricks      | Generative AI Fundamentals (Accreditation) | https://www.databricks.com/learn/training/generative-ai-fundamentals | docs/evidence/dbx-genai.png                | {date} |
@@ -240,6 +240,8 @@ HUGGINGFACEHUB_API_TOKEN=
 * 2025-01-17 — ✅ Completed Kaggle Intro to Machine Learning certificate.
 * 2025-01-18 — ✅ Completed 3 Google Cloud AI courses: Intro to Generative AI, LLMs, and Responsible AI.
 * 2025-01-18 — ✅ Earned Google Cloud Generative AI Fundamentals badge and built Prompt Playground app.
+* 2025-01-19 — ✅ Completed Prompt Design in Vertex AI course and starting RAG baseline project.
+* 2025-01-19 — ✅ Built complete RAG baseline with TF-IDF retrieval, evaluation framework, and REST API.
 
 ---
 
