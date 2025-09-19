@@ -121,7 +121,7 @@ run-api: ; uvicorn projects.p3-mlops.src.app:app --reload --port 8000
 
 | Status | Program         | Credential                                 | Link  | Evidence                                   | Date   |
 | ------ | --------------- | ------------------------------------------ | ----- | ------------------------------------------ | ------ |
-| [ ]   | Google Cloud    | Generative AI Fundamentals (Skill Badge)   | https://www.cloudskillsboost.google/paths/118 | docs/evidence/gcp-genai-fundamentals.png   | {date} |
+| [x]   | Google Cloud    | Generative AI Fundamentals (Skill Badge)   | https://www.cloudskillsboost.google/paths/118 | docs/evidence/gcp-genai-fundamentals.png   | 2025-01-18 |
 | [ ]   | Google Cloud    | Prompt Design in Vertex AI (Badge)         | https://www.cloudskillsboost.google/course_templates/976 | docs/evidence/gcp-prompt-design.png        | {date} |
 | [ ]   | Microsoft       | Applied Skills: Azure OpenAI Agents        | https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-openai/ | docs/evidence/ms-applied-skills-agents.png | {date} |
 | [ ]   | Microsoft       | Applied Skills: Azure AI Vision            | https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solutions-azure-ai/ | docs/evidence/ms-applied-skills-vision.png | {date} |
@@ -239,6 +239,7 @@ HUGGINGFACEHUB_API_TOKEN=
 * 2025-01-27 — Project structure created and initialized.
 * 2025-01-17 — ✅ Completed Kaggle Intro to Machine Learning certificate.
 * 2025-01-18 — ✅ Completed 3 Google Cloud AI courses: Intro to Generative AI, LLMs, and Responsible AI.
+* 2025-01-18 — ✅ Earned Google Cloud Generative AI Fundamentals badge and built Prompt Playground app.
 
 ---
 
