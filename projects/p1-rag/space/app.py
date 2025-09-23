@@ -72,7 +72,7 @@ with col2:
     top_k = st.slider("📊 Top K docs", 1, 8, 4, help="Number of documents to retrieve")
 
 # Main action
-if st.button("🚀 Ask", type="primary", use_container_width=True) and question.strip():
+if st.button("🚀 Ask", type="primary", use_container_width=True, key="ask_button_main") and question.strip():
     with st.spinner("🔍 Searching documents and generating answer..."):
         try:
             t0 = time.time()
@@ -147,7 +147,7 @@ if st.button("🚀 Ask", type="primary", use_container_width=True) and question.
         except Exception as e:
             st.error(f"❌ **Error:** {str(e)}")
 
-elif st.button("🚀 Ask", type="primary", use_container_width=True):
+elif st.button("🚀 Ask", type="primary", use_container_width=True, key="ask_button_empty"):
     st.warning("⚠️ Please enter a question first!")
 
 # Footer
