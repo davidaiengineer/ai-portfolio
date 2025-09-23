@@ -242,6 +242,7 @@ HUGGINGFACEHUB_API_TOKEN=
 * 2025-01-18 — ✅ Earned Google Cloud Generative AI Fundamentals badge and built Prompt Playground app.
 * 2025-01-19 — ✅ Completed Prompt Design in Vertex AI course and starting RAG baseline project.
 * 2025-01-19 — ✅ Built complete RAG baseline with TF-IDF retrieval, evaluation framework, and REST API.
+* 2025-01-19 — ✅ Deployed RAG system to Hugging Face Spaces with interactive Streamlit UI.
 
 ---
 

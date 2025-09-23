@@ -179,6 +179,15 @@ F1: 0.163 | Coverage: ✅
 
 This project demonstrates foundational RAG concepts and provides a solid baseline for more advanced implementations using neural networks and large language models.
 
+## 🌐 Live Demo
+
+- **🚀 Hugging Face Space**: [davidaiengineer/p1-rag-demo](https://huggingface.co/spaces/davidaiengineer/p1-rag-demo)
+- **📱 Interactive Interface**: Full Streamlit UI with document exploration
+- **📊 Real-time Metrics**: Processing speed, similarity scores, and telemetry
+- **🎯 Sample Questions**: Pre-loaded questions covering all AI/ML topics
+
+**Evidence**: `docs/evidence/p1-day6-space.png`
+
 ## 🚀 Demo Commands
 
 Try these sample queries:
