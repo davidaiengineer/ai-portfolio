@@ -88,11 +88,17 @@ if st.button("🚀 Ask", type="primary", use_container_width=True, key="ask_butt
             
             # Answer section
             st.subheader("💡 Answer")
-            st.markdown(f"""
-            <div style="background-color: #f0f2f6; padding: 20px; border-radius: 10px; border-left: 5px solid #1f77b4;">
-                <p style="margin: 0; font-size: 16px; line-height: 1.6;">{result}</p>
-            </div>
-            """, unsafe_allow_html=True)
+            
+            # Display answer with better visibility
+            with st.container():
+                st.markdown(f"""
+                <div style="background-color: #e8f4fd; padding: 20px; border-radius: 10px; border-left: 5px solid #1f77b4; border: 1px solid #d0e7ff;">
+                    <p style="margin: 0; font-size: 16px; line-height: 1.6; color: #1a1a1a; font-weight: 500;">{result}</p>
+                </div>
+                """, unsafe_allow_html=True)
+                
+                # Backup display method with high contrast
+                st.info(f"**Answer:** {result}")
             
             # Retrieved documents section
             st.subheader("📚 Retrieved Documents")
