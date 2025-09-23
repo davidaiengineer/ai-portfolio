@@ -186,7 +186,7 @@ This project demonstrates foundational RAG concepts and provides a solid baselin
 - **📊 Real-time Metrics**: Processing speed, similarity scores, and telemetry
 - **🎯 Sample Questions**: Pre-loaded questions covering all AI/ML topics
 
-**Evidence**: `docs/evidence/p1-day6-space.png`
+**Evidence**: `docs/evidence/p1-rag-demo-1.png`, `docs/evidence/p1-rag-demo-2.png`
 
 ## 🚀 Demo Commands
 
