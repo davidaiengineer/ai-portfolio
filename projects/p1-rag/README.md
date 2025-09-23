@@ -181,7 +181,7 @@ This project demonstrates foundational RAG concepts and provides a solid baselin
 
 ## 🌐 Live Demo
 
-- **🚀 Hugging Face Space**: [davidaiengineer/p1-rag-demo](https://huggingface.co/spaces/davidaiengineer/p1-rag-demo)
+- **🚀 Hugging Face Space**: [DavidAIEngineer/p1-rag-demo](https://huggingface.co/spaces/DavidAIEngineer/p1-rag-demo)
 - **📱 Interactive Interface**: Full Streamlit UI with document exploration
 - **📊 Real-time Metrics**: Processing speed, similarity scores, and telemetry
 - **🎯 Sample Questions**: Pre-loaded questions covering all AI/ML topics

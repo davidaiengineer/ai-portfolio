@@ -50,7 +50,7 @@ This repository tracks my 10–12 week **AI Engineering path**:
 ```
 ai-portfolio/
 ├─ projects/
-│  ├─ p1-rag/           # LLM Retrieval-Augmented Generation app
+│  ├─ p1-rag/           # LLM Retrieval-Augmented Generation app ✅ LIVE: https://huggingface.co/spaces/DavidAIEngineer/p1-rag-demo
 │  ├─ p2-vision/        # Vision/multimodal model + demo
 │  └─ p3-mlops/         # Train/serve API + CI/CD
 ├─ notebooks/
