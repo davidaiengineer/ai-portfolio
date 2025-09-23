@@ -2,6 +2,10 @@ import time
 import json
 from pathlib import Path
 import streamlit as st
+import sys
+
+# Add src directory to path for imports
+sys.path.append(str(Path(__file__).parent / "src"))
 from rag_baseline import search, answer
 
 ROOT = Path(__file__).resolve().parent
